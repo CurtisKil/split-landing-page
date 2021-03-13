@@ -12,7 +12,9 @@ A landing page that is split vertically down the middle with two choices to clic
 
 ## Demo
 
-<!-- ![](scroll-animation-1.gif) -->
+![](split-landing.gif)
+
+https://curtiskil.github.io/split-landing-page/
 
 ## Contributors
 
